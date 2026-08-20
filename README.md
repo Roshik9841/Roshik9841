@@ -1,34 +1,22 @@
 <h1 align="center">Hi 👋, I'm Roshik Maharjan</h1>
-<h3 align="center">A passionate QA Engineer from Nepal</h3>
+<h3 align="center">QA Engineer | Test Automation Engineer from Nepal 🇳🇵</h3>
 
 <p align="center">
-  Software Testing | Quality Assurance | Test Automation
+  Software Testing • Test Automation • API Testing • Quality Assurance
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🔍 Passionate about **Software Testing and Quality Assurance**
-* 🌱 Currently learning **Test Automation with Playwright**
-* 🧪 Experienced in **Manual Testing, Functional Testing, Regression Testing, Smoke Testing, and UI Testing**
-* 🔌 Working with **API Testing using Postman and Swagger**
-* 🚀 Exploring **Performance Testing with k6 and JMeter**
-* 💬 Ask me about **QA, Software Testing, Playwright, Postman, and API Testing**
+* 🔍 Passionate about **Software Quality Assurance and Test Automation**
+* 🤖 Completed training in **Test Automation with Playwright**
+* 🧪 Hands-on experience in **Manual Testing and Automated Testing**
+* 🚀 Experienced in building and maintaining **automated test cases using Playwright**
+* 🔌 Experienced in **API Testing using Postman and Swagger**
+* 📋 Experienced in **Test Case Design, Bug Reporting, Regression Testing, and Functional Testing**
+* 💬 Ask me about **QA, Playwright, Test Automation, API Testing, and Software Testing**
 * 📫 How to reach me: **[roshik9841@gmail.com](mailto:roshik9841@gmail.com)**
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/roshik9841" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshik9841" height="30" width="40" />
-  </a>
-  <a href="mailto:roshik9841@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-roshik9841%40gmail.com-red?style=flat-square&logo=gmail" alt="email" />
-  </a>
-</p>
 
 ---
 
@@ -38,10 +26,32 @@
   <img src="https://img.shields.io/badge/Manual%20Testing-2C2C2C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Functional%20Testing-2C2C2C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Regression%20Testing-2C2C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smoke%20Testing-2C2C2C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API%20Testing-2C2C2C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%20Testing-2C2C2C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Test%20Automation-2C2C2C?style=for-the-badge" />
 </p>
+
+---
+
+### 🤖 Test Automation
+
+I have completed training in **Test Automation** and have hands-on experience developing automated tests using **Playwright**.
+
+#### Playwright
+
+* Automated UI Testing
+* Page Object Model (POM)
+* Locators & Selectors
+* Assertions
+* Test Hooks
+* Test Organization
+* API Testing with Playwright
+* Automated Regression Testing
+* Cross-Browser Testing
+* Screenshots & Traces
+* Test Reports
+* CI/CD Integration
 
 ---
 
@@ -59,14 +69,6 @@
 
   <a href="https://swagger.io/" target="_blank">
     <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="45" height="45"/>
-  </a>
-
-  <a href="https://k6.io/" target="_blank">
-    <img src="https://k6.io/images/logo.svg" alt="k6" width="45" height="45"/>
-  </a>
-
-  <a href="https://jmeter.apache.org/" target="_blank">
-    <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="45" height="45"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank">
@@ -97,8 +99,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   </a>
 
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   </a>
 
 </p>
@@ -119,22 +121,27 @@
 * Test Case Design
 * Bug Reporting
 * Test Automation
-* Performance Testing
+* Automated Regression Testing
 
 ---
 
-### 🤖 Automation
+### 🔄 Automation Workflow
 
-Currently working with **Playwright** for browser automation and automated regression testing.
-
-* Page Object Model (POM)
-* Locators & Selectors
-* UI Automation
-* API Requests
-* Automated Regression Testing
-* Assertions
-* Test Organization
-* GitHub Actions / CI
+```text
+Requirement Analysis
+        ↓
+Test Case Design
+        ↓
+Manual Testing
+        ↓
+Automation with Playwright
+        ↓
+Regression Testing
+        ↓
+Bug Reporting & Verification
+        ↓
+CI/CD
+```
 
 ---
 
@@ -154,8 +161,8 @@ Currently working with **Playwright** for browser automation and automated regre
 
 ---
 
-### 🎯 Currently Learning
+### 🎯 Current Focus
 
-**QA Engineering → Test Automation → API Testing → Performance Testing → CI/CD**
+**Quality Assurance → Test Automation → Playwright → API Testing → CI/CD**
 
-I’m focused on building reliable, maintainable, and automated software testing solutions while continuously improving my understanding of software quality and development practices.
+Focused on building reliable and maintainable automated test suites while applying strong software testing principles to improve product quality.
