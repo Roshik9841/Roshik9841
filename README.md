@@ -147,16 +147,17 @@ CI/CD
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshik9841&show_icons=true&locale=en&theme=tokyonight" alt="Roshik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshik9841&show_icons=true&theme=tokyonight&hide_border=true" alt="Roshik's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshik9841&theme=tokyonight" alt="Roshik's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=roshik9841&theme=tokyonight&hide_border=true" alt="Roshik's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshik9841&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Roshik's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshik9841&layout=compact&theme=tokyonight&hide_border=true" alt="Roshik's Top Languages" />
 </p>
 
 ---
