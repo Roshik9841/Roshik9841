@@ -145,20 +145,23 @@ CI/CD
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshik9841&show_icons=true&theme=tokyonight&hide_border=true" alt="Roshik's GitHub Stats" />
+  <a href="https://github.com/roshik9841">
+    <img src="https://github-readme-streak-stats.demolab.com?user=roshik9841&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=roshik9841&theme=tokyonight&hide_border=true" alt="Roshik's GitHub Streak" />
+  <a href="https://github.com/roshik9841?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" alt="GitHub Repositories" />
+  </a>
+  <a href="https://github.com/roshik9841?tab=followers">
+    <img src="https://img.shields.io/github/followers/roshik9841?style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshik9841&layout=compact&theme=tokyonight&hide_border=true" alt="Roshik's Top Languages" />
-</p>
 
 ---
 
